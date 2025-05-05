@@ -1,0 +1,1 @@
+// Reserved for dynamic behavior in future (e.g., email signup logic)
